@@ -33,7 +33,7 @@ nav a:hover {
 }
 
 .hero {
-    background-image: url('asset/beranda 1.jpg');
+    background-image: url('beranda 1.jpg');
     background-size: cover;
     height: 100vh;
     display: flex;
